@@ -6,7 +6,6 @@ This repository is a personal collection of notes, code snippets, and practice e
 My goal is to build a strong foundation in data analysis, visualization, machine learning, and more — all using Python. This repo acts as both a learning log and a revision resource.
 
 ---
-
 ## 📚 Topics Covered
 
 
