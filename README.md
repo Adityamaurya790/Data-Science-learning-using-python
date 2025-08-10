@@ -4,7 +4,6 @@ Welcome to my Data Science learning journey using Python! 🧠🐍
 This repository is a personal collection of notes, code snippets, and practice exercises as I explore various concepts in the field of Data Science.
 
 My goal is to build a strong foundation in data analysis, visualization, machine learning, and more — all using Python. This repo acts as both a learning log and a revision resource.
-
 ---
 ## 📚 Topics Covered
 
