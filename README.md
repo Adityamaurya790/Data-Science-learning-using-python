@@ -20,7 +20,7 @@ My goal is to build a strong foundation in data analysis, visualization, machine
     <tr><td>Python Basics for Data Science</td><td>✅</td></tr>
     <tr><td>NumPy: Numerical Python</td><td>✅</td></tr>
     <tr><td>Pandas: Data Manipulation</td><td>✅</td></tr>
-    <tr><td>Data Cleaning & Preprocessing</td><td>⬜</td></tr>
+    <tr><td>Data Cleaning & Preprocessing</td><td>✅</td></tr>
     <tr><td>Data Visualization with Matplotlib</td><td>⬜</td></tr>
     <tr><td>Data Visualization with Seaborn</td><td>⬜</td></tr>
     <tr><td>Exploratory Data Analysis (EDA)</td><td>⬜</td></tr>
