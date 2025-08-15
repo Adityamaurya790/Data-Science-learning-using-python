@@ -7,8 +7,6 @@ My goal is to build a strong foundation in data analysis, visualization, machine
 
 ---
 ## 📚 Topics Covered
-
-
 <table>
   <thead>
     <tr>
