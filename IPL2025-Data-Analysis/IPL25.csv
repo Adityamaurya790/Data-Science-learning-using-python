@@ -1,0 +1,75 @@
+match_id,date,venue,team1,team2,stage,first_innings_score,first_innings_overs,second_innings_score,second_innings_overs,match_winner,won_by,margin_type,margin
+1,2025-03-22,"Eden Gardens, Kolkata",Kolkata Knight Riders,Royal Challengers Bengaluru,League,174/8,20,177/3,16.2,Royal Challengers Bengaluru,wickets,balls_remaining,22
+2,2025-03-23,Hyderabad,Sunrisers Hyderabad,Rajasthan Royals,League,286/6,20,242/6,20,Sunrisers Hyderabad,runs,runs,44
+3,2025-03-23,Chennai,Mumbai Indians,Chennai Super Kings,League,155/9,20,158/6,19.1,Chennai Super Kings,wickets,balls_remaining,5
+4,2025-03-24,Visakhapatnam,Lucknow Super Giants,Delhi Capitals,League,209/8,20,211/9,19.3,Delhi Capitals,wickets,balls_remaining,3
+5,2025-03-25,Ahmedabad,Punjab Kings,Gujarat Titans,League,243/5,20,232/5,20,Punjab Kings,runs,runs,11
+6,2025-03-26,Guwahati,Rajasthan Royals,Kolkata Knight Riders,League,151/9,20,153/2,17.3,Kolkata Knight Riders,wickets,balls_remaining,15
+7,2025-03-27,Hyderabad,Sunrisers Hyderabad,Lucknow Super Giants,League,190/9,20,193/5,16.1,Lucknow Super Giants,wickets,balls_remaining,23
+8,2025-03-28,Chennai,Royal Challengers Bengaluru,Chennai Super Kings,League,196/7,20,146/8,20,Royal Challengers Bengaluru,runs,runs,50
+9,2025-03-29,Ahmedabad,Gujarat Titans,Mumbai Indians,League,196/8,20,160/6,20,Gujarat Titans,runs,runs,36
+10,2025-03-30,Visakhapatnam,Sunrisers Hyderabad,Delhi Capitals,League,163/--,--,166/3,16,Delhi Capitals,wickets,balls_remaining,24
+11,2025-03-30,Guwahati,Rajasthan Royals,Chennai Super Kings,League,182/9,20,176/6,20,Rajasthan Royals,runs,runs,6
+12,2025-03-31,Mumbai,Kolkata Knight Riders,Mumbai Indians,League,116/--,--,121/2,12.5,Mumbai Indians,wickets,balls_remaining,43
+13,2025-04-01,Lucknow,Lucknow Super Giants,Punjab Kings,League,171/7,20,177/2,16.2,Punjab Kings,wickets,balls_remaining,22
+14,2025-04-02,Bengaluru,Royal Challengers Bengaluru,Gujarat Titans,League,169/8,20,170/2,17.5,Gujarat Titans,wickets,balls_remaining,13
+15,2025-04-03,Kolkata,Kolkata Knight Riders,Sunrisers Hyderabad,League,200/6,20,120/--,--,Kolkata Knight Riders,runs,runs,80
+16,2025-04-04,Lucknow,Lucknow Super Giants,Mumbai Indians,League,203/8,20,191/5,20,Lucknow Super Giants,runs,runs,12
+17,2025-04-05,Chennai,Delhi Capitals,Chennai Super Kings,League,183/6,20,158/5,20,Delhi Capitals,runs,runs,25
+18,2025-04-05,New Chandigarh,Punjab Kings,Rajasthan Royals,League,205/4,20,155/9,20,Rajasthan Royals,runs,runs,50
+19,2025-04-06,Hyderabad,Sunrisers Hyderabad,Gujarat Titans,League,152/8,20,153/3,16.4,Gujarat Titans,wickets,balls_remaining,20
+20,2025-04-07,Mumbai,Royal Challengers Bengaluru,Mumbai Indians,League,221/5,20,209/9,20,Royal Challengers Bengaluru,runs,runs,12
+21,2025-04-08,Kolkata,Lucknow Super Giants,Kolkata Knight Riders,League,238/3,20,234/7,20,Lucknow Super Giants,runs,runs,4
+22,2025-04-08,New Chandigarh,Punjab Kings,Chennai Super Kings,League,219/6,20,201/5,20,Punjab Kings,runs,runs,18
+23,2025-04-09,Ahmedabad,Gujarat Titans,Rajasthan Royals,League,217/6,20,159/--,--,Gujarat Titans,runs,runs,58
+24,2025-04-10,Bengaluru,Royal Challengers Bengaluru,Delhi Capitals,League,163/7,20,169/4,17.5,Delhi Capitals,wickets,balls_remaining,13
+25,2025-04-11,Chennai,Chennai Super Kings,Kolkata Knight Riders,League,103/9,20,107/2,10.1,Kolkata Knight Riders,wickets,balls_remaining,59
+26,2025-04-12,Lucknow,Gujarat Titans,Lucknow Super Giants,League,180/6,20,186/4,19.3,Lucknow Super Giants,wickets,balls_remaining,3
+27,2025-04-12,Hyderabad,Punjab Kings,Sunrisers Hyderabad,League,245/6,20,247/2,18.3,Sunrisers Hyderabad,wickets,balls_remaining,9
+28,2025-04-13,Jaipur,Rajasthan Royals,Royal Challengers Bengaluru,League,173/4,20,175/1,17.3,Royal Challengers Bengaluru,wickets,balls_remaining,15
+29,2025-04-13,Delhi,Mumbai Indians,Delhi Capitals,League,205/5,20,193/--,--,Mumbai Indians,runs,runs,12
+30,2025-04-14,Lucknow,Lucknow Super Giants,Chennai Super Kings,League,166/7,20,168/5,19.3,Chennai Super Kings,wickets,balls_remaining,3
+31,2025-04-15,New Chandigarh,Punjab Kings,Kolkata Knight Riders,League,111/--,--,95/--,--,Punjab Kings,runs,runs,16
+32,2025-04-16,Delhi,Delhi Capitals,Rajasthan Royals,League,188/5,20,188/4,20,Delhi Capitals,super_over,special,tie – DC won Super Over
+33,2025-04-17,"Wankhede, Mumbai",Sunrisers Hyderabad,Mumbai Indians,League,162/5,20,166/6,18.1,Mumbai Indians,wickets,balls_remaining,11
+34,2025-04-18,Bengaluru,Royal Challengers Bengaluru,Punjab Kings,League,95/9,14,98/5,12.1,Punjab Kings,wickets,balls_remaining,11
+35,2025-04-19,Ahmedabad,Delhi Capitals,Gujarat Titans,League,203/8,20,204/3,19.2,Gujarat Titans,wickets,balls_remaining,4
+36,2025-04-19,Jaipur,Lucknow Super Giants,Rajasthan Royals,League,180/5,20,178/5,20,Lucknow Super Giants,runs,runs,2
+37,2025-04-20,New Chandigarh,Punjab Kings,Royal Challengers Bengaluru,League,157/6,20,159/3,18.5,Royal Challengers Bengaluru,wickets,balls_remaining,7
+38,2025-04-20,"Wankhede, Mumbai",Chennai Super Kings,Mumbai Indians,League,176/5,20,177/1,15.4,Mumbai Indians,wickets,balls_remaining,26
+39,2025-04-21,Kolkata,Gujarat Titans,Kolkata Knight Riders,League,198/3,20,159/8,20,Gujarat Titans,runs,runs,39
+40,2025-04-22,Lucknow,Lucknow Super Giants,Delhi Capitals,League,159/6,20,161/2,17.5,Delhi Capitals,wickets,balls_remaining,13
+41,2025-04-23,Hyderabad,Sunrisers Hyderabad,Mumbai Indians,League,143/8,20,146/3,15.4,Mumbai Indians,wickets,balls_remaining,26
+42,2025-04-24,Bengaluru,Royal Challengers Bengaluru,Rajasthan Royals,League,205/5,20,194/9,20,Royal Challengers Bengaluru,runs,runs,11
+43,2025-04-25,Chennai,Chennai Super Kings,Sunrisers Hyderabad,League,154/--,--,155/5,18.4,Sunrisers Hyderabad,wickets,balls_remaining,8
+44,2025-04-26,"Eden Gardens, Kolkata",Punjab Kings,Kolkata Knight Riders,League,201/4,20,7/0,1,No Result,no_result,N/A,N/A
+45,2025-04-27,Mumbai,Mumbai Indians,Lucknow Super Giants,League,215/7,20,161/--,--,Mumbai Indians,runs,runs,54
+46,2025-04-27,Delhi,Delhi Capitals,Royal Challengers Bengaluru,League,162/8,20,165/4,18.3,Royal Challengers Bengaluru,wickets,balls_remaining,9
+47,2025-04-28,Jaipur,Gujarat Titans,Rajasthan Royals,League,209/4,20,212/2,15.5,Rajasthan Royals,wickets,balls_remaining,25
+48,2025-04-29,Delhi,Kolkata Knight Riders,Delhi Capitals,League,204/9,20,190/9,20,Kolkata Knight Riders,runs,runs,14
+49,2025-04-30,Chennai,Chennai Super Kings,Punjab Kings,League,190/--,--,194/6,19.4,Punjab Kings,wickets,balls_remaining,2
+50,2025-05-01,Jaipur,Mumbai Indians,Rajasthan Royals,League,217/2,20,117/--,--,Mumbai Indians,runs,runs,100
+51,2025-05-02,Ahmedabad,Gujarat Titans,Sunrisers Hyderabad,League,224/6,20,186/6,20,Gujarat Titans,runs,runs,38
+52,2025-05-03,Bengaluru,Royal Challengers Bengaluru,Chennai Super Kings,League,213/5,20,211/5,20,Royal Challengers Bengaluru,runs,runs,2
+53,2025-05-04,Kolkata,Kolkata Knight Riders,Rajasthan Royals,League,206/4,20,205/8,20,Kolkata Knight Riders,runs,runs,1
+54,2025-05-04,Dharamsala,Punjab Kings,Lucknow Super Giants,League,236/5,20,199/7,20,Punjab Kings,runs,runs,37
+55,2025-05-05,Hyderabad,Delhi Capitals,Sunrisers Hyderabad,League,133/7,20,--,--,No Result,no_result,N/A,N/A
+56,2025-05-06,Mumbai,Mumbai Indians,Gujarat Titans,League,155/8,20,147/7,19,Gujarat Titans,wickets,balls_remaining,0
+57,2025-05-07,Kolkata,Kolkata Knight Riders,Chennai Super Kings,League,179/6,20,183/8,19.4,Chennai Super Kings,wickets,balls_remaining,2
+58,2025-05-17,Bengaluru,Royal Challengers Bengaluru,Kolkata Knight Riders,League,--,--,--,--,Match abandoned,abandoned,N/A,N/A
+59,2025-05-18,Jaipur,Punjab Kings,Rajasthan Royals,League,219/5,20,209/7,20,Punjab Kings,runs,runs,10
+60,2025-05-18,Delhi,Delhi Capitals,Gujarat Titans,League,199/3,19.0,205/0,19.0,Gujarat Titans,wickets,balls_remaining,6
+61,2025-05-19,Lucknow,Lucknow Super Giants,Sunrisers Hyderabad,League,205/7,20,206/4,18.2,Sunrisers Hyderabad,wickets,balls_remaining,10
+62,2025-05-20,Delhi,Chennai Super Kings,Rajasthan Royals,League,187/8,20,188/4,17.1,Rajasthan Royals,wickets,balls_remaining,17
+63,2025-05-21,"Wankhede, Mumbai",Mumbai Indians,Delhi Capitals,League,180/5,20,121/--,--,Mumbai Indians,runs,runs,59
+64,2025-05-22,Ahmedabad,Lucknow Super Giants,Gujarat Titans,League,235/2,20,202/9,20,Lucknow Super Giants,runs,runs,33
+65,2025-05-23,Lucknow,Sunrisers Hyderabad,Royal Challengers Bengaluru,League,231/6,20,189/--,--,Sunrisers Hyderabad,runs,runs,42
+66,2025-05-24,Jaipur,Punjab Kings,Delhi Capitals,League,206/8,20,208/4,19.3,Delhi Capitals,wickets,balls_remaining,3
+67,2025-05-25,Ahmedabad,Chennai Super Kings,Gujarat Titans,League,230/5,20,147/--,--,Chennai Super Kings,runs,runs,83
+68,2025-05-25,Delhi,Sunrisers Hyderabad,Kolkata Knight Riders,League,278/3,20,168/--,--,Sunrisers Hyderabad,runs,runs,110
+69,2025-05-26,Jaipur,Mumbai Indians,Punjab Kings,League,184/7,20,187/3,18.3,Punjab Kings,wickets,balls_remaining,9
+70,2025-05-27,Lucknow,Lucknow Super Giants,Royal Challengers Bengaluru,League,227/3,20,230/4,18.4,Royal Challengers Bengaluru,wickets,balls_remaining,8
+71,2025-05-29,New Chandigarh,Punjab Kings,Royal Challengers Bengaluru,Qualifier 1,101/--,--,106/2,--,Royal Challengers Bengaluru,wickets,balls_remaining,--
+72,2025-05-30,New Chandigarh,Mumbai Indians,Gujarat Titans,Eliminator,228/5,20,208/6,20,Mumbai Indians,runs,runs,20
+73,2025-06-01,Ahmedabad,Mumbai Indians,Punjab Kings,Qualifier 2,203/6,20,207/5,19,Punjab Kings,wickets,balls_remaining,6
+74,2025-06-03,Ahmedabad,Royal Challengers Bengaluru,Punjab Kings,Final,190/9,20,184/7,20,Royal Challengers Bengaluru,runs,runs,6
