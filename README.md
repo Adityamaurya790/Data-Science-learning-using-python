@@ -21,20 +21,6 @@ My goal is to build a strong foundation in data analysis, visualization, machine
     <tr><td>Data Cleaning & Preprocessing</td><td>✅</td></tr>
     <tr><td>Data Visualization with Matplotlib</td><td>✅</td></tr>
     <tr><td>Data Visualization with Seaborn</td><td>✅</td></tr>
-    <tr><td>Exploratory Data Analysis (EDA)</td><td>⬜</td></tr>
-    <tr><td>Working with CSV/Excel/JSON files</td><td>⬜</td></tr>
-    <tr><td>Statistics for Data Science</td><td>⬜</td></tr>
-    <tr><td>Probability Fundamentals</td><td>⬜</td></tr>
-    <tr><td>Hypothesis Testing</td><td>⬜</td></tr>
-    <tr><td>Linear Regression</td><td>⬜</td></tr>
-    <tr><td>Logistic Regression</td><td>⬜</td></tr>
-    <tr><td>Decision Trees & Random Forests</td><td>⬜</td></tr>
-    <tr><td>K-Nearest Neighbors (KNN)</td><td>⬜</td></tr>
-    <tr><td>K-Means Clustering</td><td>⬜</td></tr>
-    <tr><td>Principal Component Analysis (PCA)</td><td>⬜</td></tr>
-    <tr><td>Model Evaluation Metrics</td><td>⬜</td></tr>
-    <tr><td>Scikit-learn Basics</td><td>⬜</td></tr>
-    <tr><td>Real-World Mini Projects</td><td>⬜</td></tr>
   </tbody>
 </table>
 
